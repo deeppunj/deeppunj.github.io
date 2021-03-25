@@ -1,12 +1,10 @@
-# Local Site Directories
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-
-# Ruby Gems
-.bundle
+.jekyll-cache
 Gemfile.lock
-
-# Log Files
-*.log
+_site
+.sass-cache
+.jekyll-metadata
+.idea
+.DS_Store
+node_modules
+npm-debug.log
+package-lock.json
