@@ -1,10 +1,7 @@
-.jekyll-cache
-Gemfile.lock
-_site
-.sass-cache
-.jekyll-metadata
-.idea
-.DS_Store
-node_modules
-npm-debug.log
-package-lock.json
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/
+*.iml
+_site/
+.sass-cache/
+.jekyll-cache/
